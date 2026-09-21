@@ -3,11 +3,14 @@
 > **A Portfolio-Grade Business Intelligence & Data Analytics Web Application**  
 > Built for entertainment and streaming executives to explore catalog composition, content velocity, audience reception, and geographic sourcing across 8,650 titles.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-StreamScope_App-6366f1?style=for-the-badge&logo=googlecloud&logoColor=white)](https://ais-pre-3m25gibahzbupxy3mnpuxb-929485564140.asia-southeast1.run.app)
 [![React](https://img.shields.io/badge/React-18.3-61dafb.svg?style=flat&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178c6.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38bdf8.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646cff.svg?style=flat&logo=vite)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+🔗 **Public Live Deployment**: [https://ais-pre-3m25gibahzbupxy3mnpuxb-929485564140.asia-southeast1.run.app](https://ais-pre-3m25gibahzbupxy3mnpuxb-929485564140.asia-southeast1.run.app)
 
 ---
 
