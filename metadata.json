@@ -1,0 +1,6 @@
+{
+  "name": "StreamScope — OTT Content Intelligence",
+  "description": "Real-time OTT content analytics and business intelligence platform with live streaming data ingestion, EDA, KPI modeling, SQL/Python queries, and executive portfolio insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
